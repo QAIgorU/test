@@ -3,8 +3,14 @@ line 2
 line 3
 line 4
 line 5
+<<<<<<< HEAD
 line 6
 line 7 
 line 8
 
+=======
+line 6
+line 7 
+line 8 
+>>>>>>> eed35b90072f3b673b828faade9823af8788e05e
 
