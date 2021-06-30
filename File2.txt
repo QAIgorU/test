@@ -1,9 +1,4 @@
 prosto file #4
 prosto stroka
-new line2
-new line1
-line 160
-line 150
-line 180
-new line 170
+1
 
