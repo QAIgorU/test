@@ -1,2 +1,3 @@
 prosto file #4
 prosto stroka
+new line
