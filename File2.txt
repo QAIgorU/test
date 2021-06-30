@@ -1,5 +1,6 @@
 prosto file #4
 prosto stroka
 1
-
+2
 3
+
