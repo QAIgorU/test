@@ -3,5 +3,3 @@ prosto stroka
 new line2
 new line1
 line 150
-
-line 100
